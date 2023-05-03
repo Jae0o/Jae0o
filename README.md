@@ -1,6 +1,4 @@
-    <p class="has-line-data" data-line-start="0" data-line-end="1"><img
-            src="https://capsule-render.vercel.app/api?type=waving&amp;color=ECDC7A&amp;height=150&amp;section=header"
-            alt="header"></p>
+<p class="has-line-data" data-line-start="0" data-line-end="1"><img src="https://capsule-render.vercel.app/api?type=waving&amp;color=ECDC7A&amp;height=150&amp;section=header" alt="header"></p>
     <h4 class="code-line" data-line-start=3 data-line-end=4><a id="Use_Stack_3"></a>Use Stack</h4>
     <div style="display: flex;">
         <blockquote>
