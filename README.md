@@ -1,6 +1,8 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=ECDC7A&height=140&section=header&text=Lee%20Jae%20Yeong&animation=scaleIn&fontSize=20&fontAlign=10&fontAlignY=30"/>
 
-######Lee Jae Yeong
+###### Lee Jae Yeong
+> 되냐
+> > 그리고도?
 
 <h6 align=center>🖥️ Use Skill 🖥️</h6>
 <div align=center>
