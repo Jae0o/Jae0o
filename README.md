@@ -1,8 +1,8 @@
 <p align=center class="has-line-data" data-line-start="0" data-line-end="1"><img src="https://capsule-render.vercel.app/api?type=waving&amp;color=ECDC7A&amp;height=150&amp;section=header" alt="header"></p>
 
-<h4 align=center class="code-line" data-line-start=2 data-line-end=3 >Lee Jae Yeong</h4>
+<h2 align=center class="code-line" data-line-start=2 data-line-end=3 >Lee Jae Yeong</h2>
 
-<h6 align=center class="code-line" data-line-start=4 data-line-end=5 >🖥 Skill 🖥</h6>
+<h4 align=center class="code-line" data-line-start=4 data-line-end=5 >🖥 Skill 🖥</h4>
 
 <p align=center class="has-line-data" data-line-start="5" data-line-end="6">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&amp;logo=HTML5&amp;logoColor=white" alt="HTML5"> 
@@ -17,7 +17,7 @@
 <p align=center class="has-line-data" data-line-start="10" data-line-end="11">
   <a href="https://github.com/Jae0o/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jae0o&amp;layout=compact" alt="TopLangs"></a></p>
   
-<h6 align=center class="code-line" data-line-start=12 data-line-end=13 >😮 about Me!</h6>
+<h4 align=center class="code-line" data-line-start=12 data-line-end=13 >😮 about Me!</h4>
 
 <p align=center class="has-line-data" data-line-start="13" data-line-end="14">
   <a href="https://blog.naver.com/leey153"><img src="https://img.shields.io/badge/Naver-03C75A?style=platstic-square&amp;logo=Naver&amp;logoColor=white" alt="Naver"></a>
