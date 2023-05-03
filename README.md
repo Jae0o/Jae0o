@@ -8,7 +8,7 @@
 </div>
 
 
-<image scr"https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact"/>(https://github.com/anuraghazra/github-readme-stats)
+<image scr"https://github-readme-stats.vercel.app/api/top-langs/?username=Jae0o&layout=compact(https://github.com/Jae0o/github-readme-stats)"/>
 
 
 
