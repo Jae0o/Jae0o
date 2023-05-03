@@ -10,6 +10,7 @@
 
 
 <image src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jae0o&layout=compact(https://github.com/Jae0o/github-readme-stats)"/>
+<img src="http://mazandi.herokuapp.com/api?handle=Jae0o&theme=warm"/>
 </div>
 
 
