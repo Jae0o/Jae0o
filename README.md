@@ -9,6 +9,7 @@
 </div>
 
 <div align=right>
+  <p>Languages</p>
 <image src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jae0o&layout=compact(https://github.com/Jae0o/github-readme-stats)"/>
   </div>
 </div>
