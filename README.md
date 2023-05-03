@@ -5,11 +5,14 @@
 </div>
 <div align=center>
   <h6 align=center>Stack</6>
+  </br>
 <p align=center height=100>🖥️ Skill 🖥️</p>
   <img  align=center src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/> <img align=center src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
+</br>
+  <p align=center>📚 Studing 📚</p>
+<img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=white"/></a>
 
-> 📚 Studing 📚
-> ><img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=white"/></a>
+<image align=center src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jae0o&layout=compact(https://github.com/Jae0o/github-readme-stats)"/>
 
 
 
