@@ -8,6 +8,8 @@
 </div>
 
 
+<image scr"https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact"/>(https://github.com/anuraghazra/github-readme-stats)
+
 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=ECDC7A&height=100&section=footer&text=&fontSize=90"/>
