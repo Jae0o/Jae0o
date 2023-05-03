@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=ECDC7A&height=140&section=header&text=Lee%20Jae%20Yeong&animation=scaleIn&fontSize=20&fontAlign=10&fontAlignY=30"/>
 
-<h5>Lee Jae Yeong</h5>
+<h5 align=center>Lee Jae Yeong</h5>
 
   <h6 align=center>Stack</6>
   </br>
@@ -10,7 +10,7 @@
   </br>
   
   <p align=center>📚 Studing 📚</p>
-  <img lign=center src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=white"/></a>
+  <img align=center src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=white"/>
 
 <image align=center src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jae0o&layout=compact(https://github.com/Jae0o/github-readme-stats)"/>
 
