@@ -1,22 +1,29 @@
-<p class="has-line-data" data-line-start="0" data-line-end="1"><img src="https://capsule-render.vercel.app/api?type=waving&amp;color=ECDC7A&amp;height=150&amp;section=header" alt="header"></p>
+<p align=center class="has-line-data" data-line-start="0" data-line-end="1"><img src="https://capsule-render.vercel.app/api?type=waving&amp;color=ECDC7A&amp;height=150&amp;section=header" alt="header"></p>
 
-<h4 class="code-line" data-line-start=3 data-line-end=4><a id="Use_Stack_3"></a>Use Stack</h4>
-<div style="display: flex;">
-<blockquote>
-<p class="has-line-data" data-line-start="4" data-line-end="8">🖥 Skill 🖥️<br>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=platstic-square&amp;logo=HTML5&amp;logoColor=white" alt="HTML5"> <img
-                    src="https://img.shields.io/badge/CSS3-1572B6?style=platstic-square&amp;logo=CSS3&amp;logoColor=white"
-                    alt="CSS3"><br>
-                📚 Studing 📚<br>
-                <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=platstic-square&amp;logo=Javascript&amp;logoColor=white"
-                    alt="Javascript">
-            </p>
-        </blockquote>
-        <p class="has-line-data" data-line-start="9" data-line-end="10"><a
-                href="https://github.com/Jae0o/github-readme-stats"><img
-                    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jae0o&amp;layout=compact"
-                    alt="Top Langs"></a></p>
-    </div>
-    <p class="has-line-data" data-line-start="15" data-line-end="16"><img
-            src="https://capsule-render.vercel.app/api?type=waving&amp;color=ECDC7A&amp;height=100&amp;section=footer&amp;"
-            alt="footer"></p>
+<h4 align=center class="code-line" data-line-start=2 data-line-end=3 >Lee Jae Yeong</h4>
+
+<h6 align=center class="code-line" data-line-start=4 data-line-end=5 >🖥 Skill 🖥</h6>
+
+<p align=center class="has-line-data" data-line-start="5" data-line-end="6">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=platstic-square&amp;logo=HTML5&amp;logoColor=white" alt="HTML5"> 
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=platstic-square&amp;logo=CSS3&amp;logoColor=white" alt="CSS3">
+</p>
+
+<h6 align=center class="code-line" data-line-start=6 data-line-end=7 >📚 Studing 📚</h6>
+
+<p align=center class="has-line-data" data-line-start="7" data-line-end="8">
+  <img align=center src="https://img.shields.io/badge/JavaScript-F7DF1E?style=platstic-square&amp;logo=Javascript&amp;logoColor=white" alt="JavaScript">
+</p>
+<p align=center class="has-line-data" data-line-start="10" data-line-end="11">
+  <a href="https://github.com/Jae0o/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jae0o&amp;layout=compact" alt="TopLangs"></a></p>
+  
+<h6 align=center class="code-line" data-line-start=12 data-line-end=13 >😮 about Me!</h6>
+
+<p align=center class="has-line-data" data-line-start="13" data-line-end="14">
+  <a href="www.naver.com/leey153"><img src="https://img.shields.io/badge/Naver-03C75A?style=platstic-square&amp;logo=Naver&amp;logoColor=white" alt="Naver"></a>
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=platstic-square&amp;logo=Instagram&amp;logoColor=white" alt="Naver">
+</p>
+
+<p align=center class="has-line-data" data-line-start="15" data-line-end="16">
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=ECDC7A&amp;height=150&amp;section=footer" alt="footer">
+</p>
