@@ -1,5 +1,5 @@
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=ECDC7A&height=150&section=header&text=&fontSize=90"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=ECDC7A&height=100&section=header&text=&fontSize=90"/>
 
 <div align="center">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>
@@ -10,4 +10,4 @@
 
 
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=ECDC7A&height=150&section=footer&text=&fontSize=90"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=ECDC7A&height=100&section=footer&text=&fontSize=90"/>
