@@ -1,5 +1,5 @@
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=ECDC7A&height=140&section=header&text=Lee Jae Yeong&animation=blink&fontSize=20&fontAlign=10&fontAlignY=30"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=ECDC7A&height=140&section=header&text=Lee%20Jae%20Yeong&animation=blink&fontSize=20&fontAlign=10&fontAlignY=30"/>
 
 <div align="center">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>
