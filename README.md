@@ -5,7 +5,7 @@
 <h6 align=center class="code-line" data-line-start=4 data-line-end=5 >🖥 Skill 🖥</h6>
 
 <p align=center class="has-line-data" data-line-start="5" data-line-end="6">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=platstic-square&amp;logo=HTML5&amp;logoColor=white" alt="HTML5"> 
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&amp;logo=HTML5&amp;logoColor=white" alt="HTML5"> 
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=platstic-square&amp;logo=CSS3&amp;logoColor=white" alt="CSS3">
 </p>
 
