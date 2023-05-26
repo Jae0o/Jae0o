@@ -7,12 +7,13 @@
 <p align=center class="has-line-data" data-line-start="5" data-line-end="6">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&amp;logo=HTML5&amp;logoColor=white" alt="HTML5"> 
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&amp;logo=CSS3&amp;logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&amp;logo=Javascript&amp;logoColor=white" alt="JavaScript">
 </p>
 
 <h6 align=center class="code-line" data-line-start=6 data-line-end=7 >📚 Studing 📚</h6>
 
 <p align=center class="has-line-data" data-line-start="7" data-line-end="8">
-  <img align=center src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&amp;logo=Javascript&amp;logoColor=white" alt="JavaScript">
+  <img align=center src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&amp;logo=React&amp;logoColor=white" alt="React">
 </p>
 <p align=center class="has-line-data" data-line-start="10" data-line-end="11">
   <a href="https://github.com/Jae0o/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jae0o&amp;layout=compact" alt="TopLangs"></a></p>
