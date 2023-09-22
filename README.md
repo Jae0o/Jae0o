@@ -5,6 +5,7 @@
 <h6 align=center class="code-line" data-line-start=4 data-line-end=5 >🖥 Skill 🖥</h6>
 
 <p align=center class="has-line-data" data-line-start="5" data-line-end="6">
+  [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&amp;logo=HTML5&amp;logoColor=white" alt="HTML5"> 
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&amp;logo=CSS3&amp;logoColor=white" alt="CSS3">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&amp;logo=Javascript&amp;logoColor=white" alt="JavaScript">
@@ -29,4 +30,3 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=ECDC7A&amp;height=150&amp;section=footer" alt="footer">
 </p>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
