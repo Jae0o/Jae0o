@@ -21,7 +21,7 @@
 <h6 align=center class="code-line" data-line-start=12 data-line-end="13">😮 about Me!</h6>
 
 <p align=center class="has-line-data" data-line-start="13" data-line-end="14">
-  <a href="https://velog.io/@leey153"><img src="https://img.shields.io/badge/-Velog-20c997?style=platstic-square&amp&amp;logoColor=white" alt="Velog"></a>
+  <a href="https://velog.io/@leey153"><img src="https://img.shields.io/badge/-Velog-20c997?style=for-the-badge&amp;logoColor=white" alt="Velog"></a>
   <a href="https://www.instagram.com/jae_0o_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=platstic-square&amp;logo=Instagram&amp;logoColor=white" alt="Naver"></a>
 </p>
 
