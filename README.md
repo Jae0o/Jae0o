@@ -9,7 +9,6 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&amp;logo=CSS3&amp;logoColor=white" alt="CSS3">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&amp;logo=Javascript&amp;logoColor=white" alt="JavaScript">
 </p>
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 <h6 align=center class="code-line" data-line-start=6 data-line-end=7 >📚 Studing 📚</h6>
 
