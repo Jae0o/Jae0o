@@ -28,3 +28,5 @@
 <p align=center class="has-line-data" data-line-start="15" data-line-end="16">
   <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=ECDC7A&amp;height=150&amp;section=footer" alt="footer">
 </p>
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
