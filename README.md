@@ -2,12 +2,7 @@
 
 <h2 align=center class="code-line" data-line-start=2 data-line-end=3 >Jae0</h2>
 
-<div align="center">
-
-![Jae0o's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jae0o&theme=flag-india&show_icons=true&count_private=true&&hide=stars)
-
-</div>
-
+<br>
 
 <h6 align=center class="code-line" data-line-start=4 data-line-end=5 >🖥 Skill 🖥</h6>
 
@@ -24,12 +19,23 @@
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&amp;logo=Next.js&amp;logoColor=white" alt="Next.js">
 </p>
 
-<p align=center class="has-line-data" data-line-start="7" data-line-end="8">
-  
-</p>
 
-<p align=center class="has-line-data" data-line-start="10" data-line-end="11">
-  <a href="https://github.com/Jae0o/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jae0o&amp;layout=compact" alt="TopLangs"></a></p>
+
+<br>
+<br>
+
+
+
+
+               
+<div align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Jae0o&theme=flag-india&show_icons=true&count_private=true&&hide=stars" />
+
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jae0o&layout=compact" />
+</div>
+
+<br>
+<br>
   
 <h6 align=center class="code-line" data-line-start=12 data-line-end="13">😮 about Me!</h6>
 
