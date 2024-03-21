@@ -4,7 +4,7 @@
 
 <div align="center">
 
-![Jae0o's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jae0o&theme=flag-india&show_icons=true)
+![Jae0o's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jae0o&theme=flag-india&show_icons=true&count_private=true&&hide=stars)
 
 </div>
 
