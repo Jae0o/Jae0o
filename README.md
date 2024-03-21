@@ -2,22 +2,14 @@
 
 <h2 align=center class="code-line" data-line-start=2 data-line-end=3 >Jae0</h2>
 
-<br>
-
 <h6 align=center class="code-line" data-line-start=4 data-line-end=5 >🖥 Skill 🖥</h6>
 
-<p align=center class="has-line-data" data-line-start="5" data-line-end="6">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&amp;logo=HTML5&amp;logoColor=white" alt="HTML5"> 
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&amp;logo=CSS3&amp;logoColor=white" alt="CSS3">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&amp;logo=Javascript&amp;logoColor=white" alt="JavaScript">
-  <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&amp;logo=Typescript&amp;logoColor=white" alt="TypeScript">
-</p>
+<br>
 
-<p align=center class="has-line-data" data-line-start="6" data-line-end="8">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&amp;logo=React&amp;logoColor=white" alt="React">
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&amp;logo=Vue.js&amp;logoColor=white" alt="Vue.js">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&amp;logo=Next.js&amp;logoColor=white" alt="Next.js">
-</p>
+<div align=center>
+  
+  [![My Skills](https://skillicons.dev/icons?i=nextjs,react,vue,ts,js,html,css,firebase,pinia,sass,styledcomponents,tailwind,git,vite,vercel&perline=6)](https://skillicons.dev)
+</div>
 
 
 
@@ -46,6 +38,20 @@
   <a href="https://www.jae0.co.kr/"><img src="https://img.shields.io/badge/Jae0's Blog-FF8800?style=for-the-badge&amp;logo=Blog&amp;logoColor=white" alt="Blog"></a>
 </p>
 
+
+<p align="center">
+  <a href="https://discordapp.com/users/206711795497304065">
+    <img src="https://skillicons.dev/icons?i=discord" />
+  </a>
+  
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=discord" />
+  </a>
+  
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=discord" />
+  </a>
+</p>
 
 
 <p align=center class="has-line-data" data-line-start="15" data-line-end="16">
