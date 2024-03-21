@@ -2,6 +2,13 @@
 
 <h2 align=center class="code-line" data-line-start=2 data-line-end=3 >Jae0</h2>
 
+<div align="center">
+
+![Jae0o's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jae0o&theme=flag-india&show_icons=true)
+
+</div>
+
+
 <h6 align=center class="code-line" data-line-start=4 data-line-end=5 >🖥 Skill 🖥</h6>
 
 <p align=center class="has-line-data" data-line-start="5" data-line-end="6">
@@ -33,7 +40,11 @@
   <a href="https://www.jae0.co.kr/"><img src="https://img.shields.io/badge/Jae0's Blog-FF8800?style=for-the-badge&amp;logo=Blog&amp;logoColor=white" alt="Blog"></a>
 </p>
 
+
+
 <p align=center class="has-line-data" data-line-start="15" data-line-end="16">
   <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=ECDC7A&amp;height=150&amp;section=footer" alt="footer">
 </p>
+
+
 
