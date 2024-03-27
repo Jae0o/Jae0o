@@ -2,7 +2,7 @@
 
 <h2 align=center class="code-line" data-line-start=2 data-line-end=3 >Jae0</h2>
 
-<h6 align=center class="code-line" data-line-start=4 data-line-end=5 >🖥 Skill 🖥</h6>
+<h4 align=center class="code-line" data-line-start=4 data-line-end=5 >🖥 Skill 🖥</h4>
 
 <br>
 
@@ -29,7 +29,7 @@
 <br>
 <br>
   
-<h6 align=center class="code-line" data-line-start=12 data-line-end="13">😮 about Me!</h6>
+<h4 align=center class="code-line" data-line-start=12 data-line-end="13">😮 about Me!</h4>
 
 <p align=center class="has-line-data" data-line-start="14" data-line-end="15">
   <a href="https://www.jae0.co.kr/"><img src="https://img.shields.io/badge/Jae0's Blog-FF8800?style=for-the-badge&amp;logo=Blog&amp;logoColor=white" alt="Blog"></a>
