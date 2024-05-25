@@ -8,7 +8,7 @@
 
 <div align=center>
   
-  [![My Skills](https://skillicons.dev/icons?i=nextjs,react,vue,ts,js,html,css,firebase,pinia,sass,styledcomponents,tailwind,git,vite,vercel&perline=6)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=nextjs,react,vue,ts,js,html,css,firebase,pinia,sass,styledcomponents,tailwind,git,vite,vercel,npm&perline=6)](https://skillicons.dev)
 </div>
 
 
